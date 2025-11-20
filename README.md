@@ -50,7 +50,7 @@ The final jsonl dataset contains instruction-style samples in the format:
 
 ---
 
-## 📊 **Confusion Matrix**
+## **Confusion Matrix**
 
 ```
 ![Confusion Matrix](confusion_matrix.png)
@@ -58,7 +58,7 @@ The final jsonl dataset contains instruction-style samples in the format:
 
 ---
 
-## 🧪 **Sample Demo Output**
+## **Sample Demo Output**
 
 Example model query:
 
