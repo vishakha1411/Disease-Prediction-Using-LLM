@@ -1,7 +1,7 @@
 # **LLM Fine-Tuning with QLoRA (Google Colab)**
 
 This project demonstrates fine-tuning an open-source LLM using **QLoRA** on Google Colab.
-The model is trained to **predict a disease** based on a list of symptoms.
+The model is trained to **predict a disease** based on a list of symptoms. The fine tuned model achieved an accuracy of **99.49%**.
 
 ## **Model Used** - **Mistral 7B Instruct (4-bit QLoRA)**
 
