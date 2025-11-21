@@ -52,9 +52,8 @@ The final jsonl dataset contains instruction-style samples in the format:
 
 ## **Confusion Matrix**
 
-```
+
 ![Confusion Matrix](confusion_matrix.png)
-```
 
 ---
 
